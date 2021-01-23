@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "image": "https://user-images.githubusercontent.com/67161794/102942582-c5827d80-4483-11eb-8e9d-798759e6070d.png",
+        "name":"Password Generator",
+        "description": "A random password generator!",
+        "github": "https://github.com/andreahayward/hwwk03",
+        "site": "https://andreahayward.github.io/hwwk03/"
+    },
+    {
+        "id": 2,
+        "image": "https://user-images.githubusercontent.com/67161794/102942582-c5827d80-4483-11eb-8e9d-798759e6070d.png",
+        "name":"Weather App",
+        "description": "An app to search and check the weather by city.",
+        "github": "https://github.com/andreahayward/AHWeatherDashboard",
+        "site": "https://andreahayward.github.io/AHWeatherDashboard/"
+    },
+    {
+        "id": 3,
+        "image": "https://user-images.githubusercontent.com/67161794/102942582-c5827d80-4483-11eb-8e9d-798759e6070d.png",
+        "name":"Day Planner",
+        "description": "A useful tool to schedule your day!",
+        "github": "https://github.com/andreahayward/AHDayPlanner",
+        "site": "https://andreahayward.github.io/AHDayPlanner/"
+    },
+    {
+        "id": 4,
+        "image": "https://user-images.githubusercontent.com/67161794/102942582-c5827d80-4483-11eb-8e9d-798759e6070d.png",
+        "name":"Employee Summary",
+        "description": "Organize your employees quickly and easily!",
+        "github": "https://github.com/andreahayward/EmployeeSummary/",
+    },
+    {
+        "id": 5,
+        "image": "https://user-images.githubusercontent.com/67161794/102942582-c5827d80-4483-11eb-8e9d-798759e6070d.png",
+        "name":"Employee Tracker",
+        "description": "Track your employees using a react based app!",
+        "github": "https://github.com/andreahayward/reactemployees",
+        "site": "https://andreahayward.github.io/reactemployees/"
+    },
+    {
+        "id": 6,
+        "image": "https://user-images.githubusercontent.com/67161794/102942582-c5827d80-4483-11eb-8e9d-798759e6070d.png",
+        "name":"Project 1 - Lyrically Sound",
+        "description": "A tool to search on your favorite artist!",
+        "github": "https://github.com/andreahayward/LyricallySound",
+        "site": "https://andreahayward.github.io/LyricallySound/"
+    },
+    {
+        "id": 7,
+        "image": "https://user-images.githubusercontent.com/67161794/102942582-c5827d80-4483-11eb-8e9d-798759e6070d.png",
+        "name":"Project 2 - Re: bate",
+        "description": "Read Daily Topics and Leave Your Comments!",
+        "github": "https://github.com/VScacchitti/RE-Bate",
+        "site": "https://sheltered-shelf-47742.herokuapp.com/"
+    }
+]

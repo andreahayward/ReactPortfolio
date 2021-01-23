@@ -2,7 +2,7 @@ import React from "react";
 import Image from 'react-bootstrap/Image'
 
 
-function Projects() {
+function Portfolio() {
     return (
       <div className="col-6 text-center">
       <div className="card bg-light text-dark text-center">
@@ -17,5 +17,4 @@ function Projects() {
     );
   }
 
-
-export default Projects;
+export default Portfolio;
