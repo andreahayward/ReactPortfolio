@@ -8,7 +8,7 @@ import Col from "../components/Col";
 function About() {
   return (
     <div>
-      <Hero backgroundImage="https://images.unsplash.com/photo-1415750465391-51ed29b1e610?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80">
+      <Hero backgroundImage="https://images.unsplash.com/photo-1521449256184-170b4a4c437c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1349&q=80">
         <h1>Andrea Hayward</h1>
       </Hero>
       <Container style={{ marginTop: 30 }}>
